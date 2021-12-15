@@ -1,7 +1,7 @@
 <div style="overflow: hidden">
     <br>
     <div align="center">
-        <img src="https://avatars.githubusercontent.com/u/49361427?v=4" style="border-radius: 25%; width: 150px; height: 150px">
+        <img src="https://avatars.githubusercontent.com/u/49361427?v=4" style="border-radius:50%; width: 150px; height: 150px">
     </div>
     <div align="center">
         <h3>Hey, I'm Robert also known online as Sonic Song.</h3>
@@ -33,5 +33,6 @@
 <br><br>
 <strong>📫 Contact:</strong>
 <p>Soon&#8482</p>
+<p>...</p>
 <p style="font-size: 50%">Or maybe never</p>
 </div>

@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=black">
 <br><br>
 <strong>📱 IDEs/Editors:</strong><br>
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">

@@ -5,7 +5,7 @@
     </div>
     <div align="center">
         <h3>Hey, I'm Robert also known online as Sonic Song.</h3>
-        <h4>Developer that often tries to code some usefull stuff (But it doesn't always work).</h4>
+        <h4>Developer that often tries to code some useful stuff (But it doesn't always work).</h4>
         <h4>Not the greatest but doing my best at stuff that I work on.</h4>
     </div>
 </div>

@@ -19,8 +19,9 @@
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
 <br><br>
-<strong>📚 Platforms:</strong><br>
+<strong>📚 Software:</strong><br>
     <img src="https://img.shields.io/badge/-Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/-Fedora linux-51a2da?style=for-the-badge&amp;logo=fedora&amp;logoColor=white&amp;labelColor=black">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=black">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white&labelColor=black">
